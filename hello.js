@@ -4,7 +4,7 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log('7');console.log('8');console.log('9');
+console.log('Quoth the Raven "Caw"');
 /*  
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
